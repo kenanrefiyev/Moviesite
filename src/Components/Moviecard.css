@@ -1,0 +1,21 @@
+
+*{
+    font-style: oblique;
+}
+.Movies{
+    display:flex;
+    flex-wrap:wrap;
+}
+.card{
+    
+    margin:5px;
+    width:17rem;
+    margin-right:1.5rem;
+    margin-bottom:1.5rem
+    
+}
+.poster img{
+    width:16rem
+}
+
+
